@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Converts byte array to base64 blob.",
+    "name": "base64Lib",
+    "version": 2,
+    "visibility": "system"
+}

@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade",
+    "description": "Parses IDP messages to create location objects used in MQTT messages.",
+    "name": "parseLocationLib",
+    "version": 66,
+    "visibility": "system"
+}

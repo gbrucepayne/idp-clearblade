@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade",
+    "description": "Helper functions related to Messaging API operations and related collections.",
+    "name": "idpCollectionsLib",
+    "version": 6,
+    "visibility": "system"
+}

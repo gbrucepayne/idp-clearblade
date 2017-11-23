@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade",
+    "description": "Generates MQTT messages used by Services",
+    "name": "notifyIdpLib",
+    "version": 3,
+    "visibility": "system"
+}

@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "log,clearblade,http",
+    "description": "Implements Inmarsat V1 Messaging API",
+    "name": "idpNetworkGatewayV1Lib",
+    "version": 6,
+    "visibility": "system"
+}
