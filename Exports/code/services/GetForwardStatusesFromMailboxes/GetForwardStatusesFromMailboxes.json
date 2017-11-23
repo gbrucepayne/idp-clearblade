@@ -1,0 +1,10 @@
+{
+    "current_version": 3,
+    "dependencies": "log,clearblade,idpNetworkGatewayV1Lib,notifyIdpLib",
+    "logging_enabled": "true",
+    "name": "GetForwardStatusesFromMailboxes",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "GetForwardStatusesFromMailboxes.js"
+}

@@ -1,0 +1,10 @@
+{
+    "current_version": 80,
+    "dependencies": "log,clearblade,parseLocationLib,notifyIdpLib,idpNetworkGatewayV1Lib",
+    "logging_enabled": "true",
+    "name": "ParseLocationMessage",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "ParseLocationMessage.js"
+}

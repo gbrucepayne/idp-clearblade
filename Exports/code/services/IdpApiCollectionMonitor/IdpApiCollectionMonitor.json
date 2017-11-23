@@ -1,0 +1,10 @@
+{
+    "current_version": 5,
+    "dependencies": "log,clearblade",
+    "logging_enabled": "true",
+    "name": "IdpApiCollectionMonitor",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "IdpApiCollectionMonitor.js"
+}

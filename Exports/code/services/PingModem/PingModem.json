@@ -1,0 +1,10 @@
+{
+    "current_version": 3,
+    "dependencies": "log,clearblade,idpNetworkGatewayV1Lib,notifyIdpLib",
+    "logging_enabled": "true",
+    "name": "PingModem",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "PingModem.js"
+}

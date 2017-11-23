@@ -1,0 +1,8 @@
+{
+    "description": "checks for mobile originated messages",
+    "frequency": 15,
+    "name": "mo_poller",
+    "repeats": -1,
+    "service_name": "GetReturnMessagesFromMailboxes",
+    "start_time": "2017-11-02T03:35:13Z"
+}

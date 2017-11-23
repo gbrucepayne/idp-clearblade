@@ -1,0 +1,12 @@
+{
+    "current_version": 5,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "ChangeLoraTrackingRate",
+    "params": [
+        "interval_seconds"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "ChangeLoraTrackingRate.js"
+}

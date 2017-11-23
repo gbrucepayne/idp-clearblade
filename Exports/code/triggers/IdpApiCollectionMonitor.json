@@ -1,0 +1,16 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemCreated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "collectionName": "IdpRestApiCalls"
+    },
+    "name": "IdpApiCollectionMonitor",
+    "service_name": "IdpApiCollectionMonitor"
+}
